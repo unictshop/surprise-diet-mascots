@@ -1,23 +1,23 @@
 # 🐱 Surprise Diet — Mascot Pack
 
-11 mascots for the Surprise Diet app. All PNG, real RGBA alpha channel (transparent background).
+11 mascots, real RGBA transparent PNGs.
 
-| File | Screen |
-|------|--------|
-| 01-welcome.png | Onboarding / Welcome |
-| 02-cloche.png | App icon / Hero |
-| 03-surprised.png | Surprise reveal |
-| 04-thinking.png | Goal setting |
-| 05-celebrate.png | Paywall / Subscribe |
-| 06-shopping.png | Weekly grocery list |
-| 07-recipe.png | Daily recipe |
-| 08-success.png | Achievement / Streak |
-| 09-waiting.png | Empty state |
-| 10-notification.png | Push notification |
-| 11-weigh-in.png | Weigh-in / Progress |
+| File | Description |
+|------|-------------|
+| cat-waving.png | Waving hello — Onboarding welcome |
+| cat-cloche.png | Holding cloche — App hero / icon |
+| cat-surprised.png | Surprised face — Reveal moment |
+| cat-thinking.png | Thinking with notepad — Goal setting |
+| cat-celebrating.png | Arms up celebrating — Paywall / Subscribe |
+| cat-shopping.png | Carrying basket — Weekly grocery list |
+| cat-chef.png | Chef hat + cloche reveal — Daily recipe |
+| cat-trophy.png | Holding trophy — Achievement / Streak |
+| cat-sleeping.png | Sleepy Zzz — Empty state |
+| cat-bell.png | Ringing bell — Push notification |
+| cat-scale.png | Standing on scale — Weigh-in / Progress |
 
 ## Download all
-Click **Code → Download ZIP** on GitHub, or clone:
-\`\`\`
+**Code → Download ZIP** or clone:
+```
 git clone https://github.com/unictshop/surprise-diet-mascots.git
-\`\`\`
+```
